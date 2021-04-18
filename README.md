@@ -9,11 +9,11 @@ The paste it project is a simple web application dedicated to programmers to par
 - MongoDB
 
 ## Planning
-- [] Initialize Git project
-- [] Install libraries
-- [] Create models 
-  - [] User model
-  - [] Topic model
-  - [] Link model
-- [] Create routes
-- [] JWT Authentication
+- [ ] Initialize Git project
+- [ ] Install libraries
+- [ ] Create models 
+  - [ ] User model
+  - [ ] Topic model
+  - [ ] Link model
+- [ ] Create routes
+- [ ] JWT Authentication
